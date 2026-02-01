@@ -2,7 +2,8 @@
 
 Aqui estão as minhas soluções para os problemas do Codeforces:
 
-- [A. Watermelon](A/Watermelon.cpp)
-- [A. String Task](A/String-Task.cpp)
-- [A. Way Too Long Words](A/Way-Too-Long-Words.cpp)
-- [A. Expression](A/Expression.cpp)
+- [A. Watermelon](A/4.cpp)
+- [A. String Task](A/118.cpp)
+- [A. Way Too Long Words](A/71.cpp)
+- [A. Expression](A/479.cpp)
+- [A. Cut Ribbon](A/189)
