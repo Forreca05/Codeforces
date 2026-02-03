@@ -1,9 +1,10 @@
 # Codeforces Solutions
 
-Aqui estão as minhas soluções para os problemas do Codeforces:
+Here are my solutions for these Codeforces problems:
 
 - [A. Watermelon](A/4.cpp)
-- [A. String Task](A/118.cpp)
 - [A. Way Too Long Words](A/71.cpp)
-- [A. Expression](A/479.cpp)
+- [A. String Task](A/118.cpp)
 - [A. Cut Ribbon](A/189)
+- [A. Expression](A/479.cpp)
+- [A. Raising Bacteria](A/579)
