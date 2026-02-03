@@ -8,3 +8,4 @@ Here are my solutions for these Codeforces problems:
 - [A. Cut Ribbon](A/189)
 - [A. Expression](A/479.cpp)
 - [A. Raising Bacteria](A/579)
+- [B. New Year Cake](B/2182)
