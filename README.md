@@ -10,3 +10,4 @@ Here are my solutions for these Codeforces problems:
 - [A. Raising Bacteria](A/579)
 - [A. Perfect Root](A/2185)
 - [B. New Year Cake](B/2182)
+- [C. Prepend and Append](C/1791)
