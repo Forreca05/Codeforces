@@ -11,3 +11,5 @@ Here are my solutions for these Codeforces problems:
 - [A. Perfect Root](A/2185)
 - [B. New Year Cake](B/2182)
 - [C. Prepend and Append](C/1791)
+- [D. 1D Eraser](D/1873)
+
